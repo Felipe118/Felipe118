@@ -2,6 +2,8 @@
 
 
  🚀 Full Stack Developer 
+ 
+ ![Profile views](https://gpvc.arturio.dev/Felipe118)
     
 
 
