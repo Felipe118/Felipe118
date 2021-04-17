@@ -1,7 +1,8 @@
-### Hi there, I'am Luis!! 👋
+### Seja Bem Vndo!! 👋
 
 
 - Full Stack Developer
+
 
 
  
@@ -13,12 +14,12 @@
 
 
 
-## Skills and Tools 
+## Habilidades 
   
  [![Felipe118 GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe118)](https://github.com/Felipe118/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe118&layout=compact)](https://github.com/Felipe118/github-readme-stats)
  
- ## Languages
+ ## Linguagens e Ferramentas
  
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
