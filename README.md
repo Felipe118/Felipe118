@@ -1,7 +1,8 @@
-### Seja Bem Vndo!! 👋
+### Seja Bem Vindo!! 👋
 
 
-- Full Stack Developer
+ 🚀 Full Stack Developer 
+    
 
 
 
