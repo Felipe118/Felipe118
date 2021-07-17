@@ -12,7 +12,7 @@
 ## Sobre
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=)](https://github.com/Felipe118)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](hhtps://www.linkedin.com/in/luis-felipe-dev-php)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](htps://www.linkedin.com/in/luis-felipe-dev-php)
 
 
 
