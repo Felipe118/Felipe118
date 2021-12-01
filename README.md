@@ -1,7 +1,7 @@
 ### Seja Bem Vindo!! 👋
 
 
- 🚀 Full-Stack Developer 
+ 🚀 Full-Stack Developer PHP/NodeJS
  
  ![Profile views](https://gpvc.arturio.dev/Felipe118)
    
