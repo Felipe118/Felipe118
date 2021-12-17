@@ -17,7 +17,7 @@
 
 
 
-## Habilidades 
+## Skills 
   
  [![Felipe118 GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe118)](https://github.com/Felipe118/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe118&layout=compact)](https://github.com/Felipe118/github-readme-stats)
