@@ -1,7 +1,7 @@
 ### Seja Bem Vindo!! 👋
 
 
- 🚀 Full-Stack Developer PHP/VueJS
+ 🚀 Full-Stack Developer PHP|NodeJS|React|VueJS|TypeScript
  
  
    
